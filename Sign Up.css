@@ -1,0 +1,230 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Inter;
+}
+
+.main-container {
+    font-family: Inter;
+    display: flex;
+    width: 1920px;
+    height: 1124px;
+    position: absolute;
+    top: 100px;
+    left: 77px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #fff;
+}
+
+.first-container {
+    width: 948px;
+    height: 1124px;
+    font-family: Inter;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #F6F6F6;
+}
+
+.first-container .pngwing-2 {
+    width: 470px;
+    height: 570px;
+    top: 122.92px;
+    left: -307px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: 15.99 deg;
+}
+
+.first-container .heading {
+    width: 146px;
+    height: 32px;
+    font-family: Inter;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 34px;
+    justify-content: center;
+    font-weight: 900;
+    line-height: 32px;
+    text-align: left;
+    color: #18A932;
+}
+
+.fc-content-hr {
+    margin-top: -5px;
+}
+
+.first-container p {
+    width: 277px;
+    height: 48px;
+    font-family: Inter;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center
+}
+
+.fc-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    height: 529px;
+    width: 648px;
+    top: 300px;
+    left: 226px;
+}
+.first-container .pngwing-1hr {
+    justify-content: center;
+    width: 535px;
+    height: 0px;
+    top: 745px;
+    left: 207px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    rotate: -0 deg;
+}
+
+/* SECOND CONTAINER */
+
+.second-container {
+    width: 948px;
+    height: 1124px;
+    left: 972px;
+    gap: 0px;
+    border-radius: 40px 0px 0px 0px;
+    opacity: 0px;
+    background-color: #fff;
+}
+.pngwing-10 {
+    width: 555px;
+    height: 367.11px;
+    position: relative;
+    top: 774.92px;
+    left: 380px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: 15.99 deg;
+}
+.main-content {
+    width: 529px;
+    height: 648px;
+    position: relative;
+    top: -60px;
+    left: 110px;
+    gap: 64px;
+}
+.second-container .logo {
+    width: 529px;
+    height: 32px;
+    gap: 6px;
+    margin-bottom: 50px;
+    opacity: 0px;
+}
+.content {
+    width: 529px;
+    height: 120px;
+    gap: 16px;
+    opacity: 0px;
+    margin-bottom: 5px;
+}
+#content-layout {
+    width: 529px;
+    height: 432px;
+    gap: 24px;
+    opacity: 0px;
+}
+.content .heading {
+    margin-bottom: 25px;
+}
+.second-container.heading h1 {
+    width: 529px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    color: #022828;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+}
+.second-container.heading p {
+    width: 529px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    background: #5A5758;
+}
+.content p {
+    width: 529px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+}
+
+.heading .login {
+    margin-bottom: 100px;
+    font-family: Inter;
+}
+.main-textfield {
+
+    display: flex;
+    justify-content: space-between;
+    width: 529px;
+    height: 160px;
+    background-color: #fff;
+    font-family: Inter;
+}
+.main-textfield .input {
+    width: 264px;
+    font-family: Inter;
+    padding: 5px;
+    background-color: #fff;
+    border: none;
+}
+.first-textfield {
+    width: 264px;
+    gap: 8px;
+    margin-top: 10px;
+
+}
+.second-textfield {
+    width: 264px;
+
+    gap: 8px;
+    margin-top: 10px;
+}
+.agree {
+    font-family: Inter;
+    margin-bottom: 16px;
+}
+.btn {
+    width: 529px;
+    height: 56px;
+    padding: 16px 20px 16px 20px;
+    gap: 8px;
+    border-radius: 40px;
+    opacity: 0px;
+    background-color: #18A932;
+    color: white;
+    margin-top: 50px;
+}
